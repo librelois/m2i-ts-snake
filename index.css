@@ -1,0 +1,11 @@
+#myCanvas {
+    background-color: black;
+}
+
+body div {
+    float: left;
+}
+
+input {
+    border-radius: 50%;
+}
